@@ -1,25 +1,24 @@
 # Mi Market · Capacitación para gerencia de ventas
 
-Presentación web con imágenes originales, identidad negra, roja y blanca y explicación progresiva.
+Presentación comercial web con imágenes originales, herramientas mostradas una a una, Intune con foco y zoom, y **16 videos originales reproducibles**. Contiene 41 temas navegables, incorporando negociación, instalación de equipos de frío y pedidos offline del PowerPoint completo.
 
-[Descargar la versión para gerencia](https://raw.githubusercontent.com/josehernandeziturra88-ship-it/MMKT/main/MMKT-Gerencia-interactiva.zip). Descomprime y abre **Mi-Market-Gerencia.html** en Chrome, Edge o Firefox. No necesitas instalar programas ni mover imágenes: están incorporadas en el archivo.
+## Descargar y abrir
 
-## Recorrido visual
+[Descargar la presentación con todos los videos](https://github.com/josehernandeziturra88-ship-it/MMKT/archive/refs/heads/presentacion-web.zip).
 
-- Las 11 herramientas se muestran individualmente, con su función y una lectura para la gestión comercial. El mapa completo está disponible al solicitarlo.
-- Intune: 3 pasos, contexto de los tres teléfonos, pantalla completa y zona de detalle ampliada. Selecciona los pasos o pulsa la zona marcada.
-- El resto de los temas avanza una idea por clic, conservando las capturas originales.
-- Incluye preguntas con respuestas, lista de preparación, notas y modo de proyección. Flechas o espacio para avanzar.
+1. Descarga y descomprime el ZIP completo.
+2. Abre `index.html` con Chrome, Edge o Firefox.
+3. Conserva la carpeta `videos` junto a `index.html`.
+4. Usa **Proyectar** y las flechas para avanzar. Las herramientas y las explicaciones se muestran de forma progresiva.
 
-![Herramientas una a una](gerencia-herramientas.png)
-![Intune paso a paso](gerencia-intune.png)
+Los botones **Reproducir demostración** abren los videos del tema. **Videos · 16** permite elegir cualquier demostración. Hay controles de pausa, reinicio, velocidad y pantalla completa. No hace falta PowerPoint ni conexión después de descargar.
 
-## Estado del contenido
+## Contenido y validación
 
-Esta entrega no incluye videos: no se encontraron videos incrustados ni vínculos a videos en el PowerPoint disponible. La incorporación de videos requiere el archivo original o los medios correspondientes. Los ejercicios no ejecutan acciones en Mi Market.
+Fuente: PowerPoint original «Mi Market - General videos», 43 diapositivas. Los 16 MP4 se extrajeron sin recodificar y conservan su audio y calidad; sus hashes SHA-256 coinciden con los medios incrustados. El manifiesto registra duración y diapositiva de origen.
 
-Verificar con el responsable la política de contraseñas, mínimo de compra y significado operativo de «cuotificado» antes de capacitar.
+Se revisaron carga y duración de los 16 videos en Chromium, reproducción efectiva, pausa, velocidad, biblioteca, imágenes en los 41 temas, zoom de Intune y navegación móvil. Los ejercicios son educativos y no modifican Mi Market.
 
-## Publicación web opcional
+La sección de pedidos sin conexión se actualizó: admite clientes del día, requiere cerrar el pedido y conservar la caché; la bitácora permite revisar la transmisión al recuperar conexión. Las condiciones de la herramienta deben validarse con el responsable comercial antes de capacitar. La diapositiva 42 del original contiene apuntes de edición y no se presenta como una función adicional confirmada.
 
-index.html está listo para GitHub Pages. Si Pages todavía no está activo, en Settings → Pages selecciona Deploy from a branch → main → / (root). La subida del archivo por sí sola no confirma que el sitio esté publicado.
+![Demostración en video](capacitacion/vista-video.png)
