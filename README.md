@@ -1,14 +1,21 @@
-# Mi Market · Aprende haciendo
+# Mi Market · Presentación final
 
-**Esta es la versión visual actual para capacitar a la fuerza de venta.**
+Entrega completa con el estilo aprobado: composición original, apariciones por clic, secuencias de capturas de los procesos y ampliaciones. Intune incorpora el recuadro de texto, la eliminación de la flecha inferior y el check verde.
 
-[Descargar la presentación visual · 10 MB](https://raw.githubusercontent.com/josehernandeziturra88-ship-it/MMKT/main/Mi-Market-visual.zip). Descomprime y abre **Mi-Market-aprende.html** en Chrome, Edge o Firefox. No necesita conexión ni instalaciones.
+**[Descargar el paquete final completo · 77 MB](https://raw.githubusercontent.com/josehernandeziturra88-ship-it/MMKT/main/Mi-Market-Final.zip)**
 
-Cada paso muestra el teléfono, una zona ampliada y una acción corta. Usa **Continuar** o las flechas para avanzar. **Temas** permite elegir un proceso; **Guía de apoyo** conserva las reglas y referencias fuera de las pantallas principales.
+**[Descargar solo el PowerPoint · 35 MB](https://raw.githubusercontent.com/josehernandeziturra88-ship-it/MMKT/main/final/Mi-Market-Final.pptx)**
 
-![Ejemplo: agregar productos](aprende/muestra-pedido.png)
-![Ejemplo: comprobar Intune](aprende/muestra-intune.png)
+## Cómo usarlo
 
-Se seleccionaron 67 fotogramas de las 16 grabaciones originales, además de las capturas del PowerPoint. Se recortó el área del teléfono sin recrear su interfaz. Las herramientas aparecen una a una; los procesos se explican mediante secuencias de imágenes en lugar de reproducir videos. Incluye prácticas con respuesta.
+Para la versión web, descomprime el paquete completo y abre **Presentacion.html**. Mantén la carpeta **recursos** junto al archivo. Pulsa Proyectar y avanza con Continuar o las flechas. Temas permite elegir una lámina y activar el material complementario. Ver completa y Ampliar permiten consultar los detalles y regresar al paso.
 
-Las versiones previas con videos y PowerPoint permanecen como antecedentes; para esta capacitación utiliza **Mi-Market-visual.zip**.
+Para PowerPoint, abre **Mi-Market-Final.pptx** y activa **Presentación con diapositivas**. Los clics hacen aparecer la siguiente parte de la lámina. Es una copia para exponer basada en imágenes; los textos no son objetos editables independientes. El archivo original permanece intacto.
+
+Se conservan las 43 láminas originales: 24 en el recorrido y 19 ocultas como material complementario. Las secuencias usan capturas extraídas de los 16 videos originales. La organización de láminas ocultas coincide con la del archivo fuente.
+
+Comprobado: carga de los 250 estados visuales con archivos locales y sin conexión; navegación, índice, ampliaciones del paso actual, vista completa y material de apoyo. PowerPoint importa las 43 láminas y reconoce las 207 apariciones. El ZIP final pasó la comprobación de integridad.
+
+![Intune corregido](final/Muestra-Intune.png)
+
+Las carpetas de revisión y las propuestas previas permanecen como antecedentes. La entrega que debes utilizar es **Mi-Market-Final.zip** o **final/Mi-Market-Final.pptx**.

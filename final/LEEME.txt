@@ -1,0 +1,19 @@
+MI MARKET · PRESENTACIÓN FINAL
+
+PARA USAR LA VERSIÓN INTERACTIVA
+1. Descomprime el ZIP completo.
+2. Abre Presentacion.html con Chrome, Edge o Firefox.
+3. Conserva la carpeta recursos junto al archivo.
+4. Pulsa Proyectar. Usa Continuar o las flechas para avanzar.
+
+Ver completa permite consultar la lámina y volver al paso. Ampliar abre una vista temporal. Temas permite elegir otra lámina y activar el material complementario.
+
+PARA USAR POWERPOINT
+Abre Mi-Market-Final.pptx y activa Presentación con diapositivas. Avanza con clics para ver las apariciones. La copia de PowerPoint está basada en imágenes para conservar la composición; los textos no son editables como objetos independientes. El original permanece sin modificar.
+
+CONTENIDO
+Se conserva el orden, la identidad y la composición de las láminas. Incluye las apariciones de herramientas y el Intune corregido con recuadro, sin flecha inferior y con ¡Y listo! y check verdes. Las grabaciones se adaptaron a secuencias de capturas de los procesos dentro de su lámina.
+
+Se mantienen las 43 láminas del archivo original: 24 en el recorrido y 19 ocultas como material complementario. La organización de diapositivas ocultas coincide con el original. Entre el material de referencia hay una lámina de apuntes de edición; no forma parte del recorrido de capacitación.
+
+No requiere conexión después de descargar y no ejecuta operaciones reales en Mi Market. Las políticas y condiciones comerciales se conservan como aparecen en el material fuente y deben verificarse con el responsable antes de capacitar.

@@ -1,0 +1,14 @@
+{
+  "laminas": 43,
+  "recorrido_original": 24,
+  "material_apoyo_oculto": 19,
+  "estados_visuales": 250,
+  "efectos_entrada_powerpoint": 207,
+  "verificaciones": [
+    "Carga de todos los estados con red desconectada y archivos locales",
+    "Navegación, índice, material complementario, vista completa y ampliaciones",
+    "PowerPoint abre e importa 43 láminas y 207 apariciones en Office compatible",
+    "Conservación de las diapositivas ocultas del original",
+    "Integridad ZIP y referencias internas de los recursos"
+  ]
+}

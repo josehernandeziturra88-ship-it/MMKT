@@ -1,0 +1,337 @@
+[
+  {
+    "lamina_original": 4,
+    "medio_original": "media1.mp4",
+    "segundo": 11.05
+  },
+  {
+    "lamina_original": 4,
+    "medio_original": "media1.mp4",
+    "segundo": 18.84
+  },
+  {
+    "lamina_original": 4,
+    "medio_original": "media1.mp4",
+    "segundo": 42.24
+  },
+  {
+    "lamina_original": 5,
+    "medio_original": "media2.mp4",
+    "segundo": 34.2
+  },
+  {
+    "lamina_original": 5,
+    "medio_original": "media2.mp4",
+    "segundo": 76.65
+  },
+  {
+    "lamina_original": 5,
+    "medio_original": "media2.mp4",
+    "segundo": 90.8
+  },
+  {
+    "lamina_original": 5,
+    "medio_original": "media2.mp4",
+    "segundo": 106.13
+  },
+  {
+    "lamina_original": 6,
+    "medio_original": "media4.mp4",
+    "segundo": 2.41
+  },
+  {
+    "lamina_original": 6,
+    "medio_original": "media4.mp4",
+    "segundo": 4.11
+  },
+  {
+    "lamina_original": 6,
+    "medio_original": "media3.mp4",
+    "segundo": 0.57
+  },
+  {
+    "lamina_original": 6,
+    "medio_original": "media3.mp4",
+    "segundo": 8.8
+  },
+  {
+    "lamina_original": 7,
+    "medio_original": "media5.mp4",
+    "segundo": 2.5
+  },
+  {
+    "lamina_original": 7,
+    "medio_original": "media5.mp4",
+    "segundo": 8.49
+  },
+  {
+    "lamina_original": 7,
+    "medio_original": "media5.mp4",
+    "segundo": 14.49
+  },
+  {
+    "lamina_original": 7,
+    "medio_original": "media5.mp4",
+    "segundo": 26.48
+  },
+  {
+    "lamina_original": 7,
+    "medio_original": "media5.mp4",
+    "segundo": 32.48
+  },
+  {
+    "lamina_original": 7,
+    "medio_original": "media5.mp4",
+    "segundo": 38.47
+  },
+  {
+    "lamina_original": 7,
+    "medio_original": "media5.mp4",
+    "segundo": 44.97
+  },
+  {
+    "lamina_original": 10,
+    "medio_original": "media6.mp4",
+    "segundo": 12.96
+  },
+  {
+    "lamina_original": 10,
+    "medio_original": "media6.mp4",
+    "segundo": 18.32
+  },
+  {
+    "lamina_original": 10,
+    "medio_original": "media6.mp4",
+    "segundo": 40.22
+  },
+  {
+    "lamina_original": 12,
+    "medio_original": "media7.mp4",
+    "segundo": 10.05
+  },
+  {
+    "lamina_original": 12,
+    "medio_original": "media7.mp4",
+    "segundo": 18.37
+  },
+  {
+    "lamina_original": 12,
+    "medio_original": "media7.mp4",
+    "segundo": 22.53
+  },
+  {
+    "lamina_original": 12,
+    "medio_original": "media8.mp4",
+    "segundo": 13.97
+  },
+  {
+    "lamina_original": 12,
+    "medio_original": "media8.mp4",
+    "segundo": 17.14
+  },
+  {
+    "lamina_original": 12,
+    "medio_original": "media8.mp4",
+    "segundo": 23.73
+  },
+  {
+    "lamina_original": 19,
+    "medio_original": "media9.mp4",
+    "segundo": 15.71
+  },
+  {
+    "lamina_original": 19,
+    "medio_original": "media9.mp4",
+    "segundo": 19.27
+  },
+  {
+    "lamina_original": 19,
+    "medio_original": "media9.mp4",
+    "segundo": 22.82
+  },
+  {
+    "lamina_original": 31,
+    "medio_original": "media15.mp4",
+    "segundo": 18.82
+  },
+  {
+    "lamina_original": 31,
+    "medio_original": "media15.mp4",
+    "segundo": 32.1
+  },
+  {
+    "lamina_original": 31,
+    "medio_original": "media15.mp4",
+    "segundo": 45.38
+  },
+  {
+    "lamina_original": 31,
+    "medio_original": "media15.mp4",
+    "segundo": 58.67
+  },
+  {
+    "lamina_original": 31,
+    "medio_original": "media15.mp4",
+    "segundo": 71.95
+  },
+  {
+    "lamina_original": 31,
+    "medio_original": "media15.mp4",
+    "segundo": 85.23
+  },
+  {
+    "lamina_original": 31,
+    "medio_original": "media15.mp4",
+    "segundo": 99.62
+  },
+  {
+    "lamina_original": 28,
+    "medio_original": "media13.mp4",
+    "segundo": 27.65
+  },
+  {
+    "lamina_original": 28,
+    "medio_original": "media13.mp4",
+    "segundo": 39.09
+  },
+  {
+    "lamina_original": 28,
+    "medio_original": "media13.mp4",
+    "segundo": 50.53
+  },
+  {
+    "lamina_original": 28,
+    "medio_original": "media13.mp4",
+    "segundo": 61.97
+  },
+  {
+    "lamina_original": 28,
+    "medio_original": "media13.mp4",
+    "segundo": 73.41
+  },
+  {
+    "lamina_original": 28,
+    "medio_original": "media13.mp4",
+    "segundo": 85.81
+  },
+  {
+    "lamina_original": 29,
+    "medio_original": "media14.mp4",
+    "segundo": 23.64
+  },
+  {
+    "lamina_original": 29,
+    "medio_original": "media14.mp4",
+    "segundo": 33.42
+  },
+  {
+    "lamina_original": 29,
+    "medio_original": "media14.mp4",
+    "segundo": 43.2
+  },
+  {
+    "lamina_original": 29,
+    "medio_original": "media14.mp4",
+    "segundo": 62.76
+  },
+  {
+    "lamina_original": 29,
+    "medio_original": "media14.mp4",
+    "segundo": 73.35
+  },
+  {
+    "lamina_original": 25,
+    "medio_original": "media11.mp4",
+    "segundo": 17.9
+  },
+  {
+    "lamina_original": 25,
+    "medio_original": "media11.mp4",
+    "segundo": 30.53
+  },
+  {
+    "lamina_original": 25,
+    "medio_original": "media11.mp4",
+    "segundo": 43.17
+  },
+  {
+    "lamina_original": 25,
+    "medio_original": "media11.mp4",
+    "segundo": 68.44
+  },
+  {
+    "lamina_original": 25,
+    "medio_original": "media11.mp4",
+    "segundo": 81.07
+  },
+  {
+    "lamina_original": 25,
+    "medio_original": "media11.mp4",
+    "segundo": 94.76
+  },
+  {
+    "lamina_original": 20,
+    "medio_original": "media10.mp4",
+    "segundo": 28.26
+  },
+  {
+    "lamina_original": 20,
+    "medio_original": "media10.mp4",
+    "segundo": 39.95
+  },
+  {
+    "lamina_original": 20,
+    "medio_original": "media10.mp4",
+    "segundo": 63.34
+  },
+  {
+    "lamina_original": 20,
+    "medio_original": "media10.mp4",
+    "segundo": 75.04
+  },
+  {
+    "lamina_original": 20,
+    "medio_original": "media10.mp4",
+    "segundo": 87.7
+  },
+  {
+    "lamina_original": 26,
+    "medio_original": "media12.mp4",
+    "segundo": 23.67
+  },
+  {
+    "lamina_original": 26,
+    "medio_original": "media12.mp4",
+    "segundo": 40.39
+  },
+  {
+    "lamina_original": 26,
+    "medio_original": "media12.mp4",
+    "segundo": 57.1
+  },
+  {
+    "lamina_original": 26,
+    "medio_original": "media12.mp4",
+    "segundo": 107.23
+  },
+  {
+    "lamina_original": 26,
+    "medio_original": "media12.mp4",
+    "segundo": 125.34
+  },
+  {
+    "lamina_original": 34,
+    "medio_original": "media16.mp4",
+    "segundo": 10.23
+  },
+  {
+    "lamina_original": 34,
+    "medio_original": "media16.mp4",
+    "segundo": 24.67
+  },
+  {
+    "lamina_original": 34,
+    "medio_original": "media16.mp4",
+    "segundo": 39.1
+  }
+]
