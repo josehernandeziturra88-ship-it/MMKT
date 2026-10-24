@@ -1,5 +1,7 @@
-# Revisión de una sola lámina · Intune
+# Revisión de la lámina Intune
 
-Propuesta de zoom sobre la lámina 3 del PDF original. Se conserva la imagen completa como base y una miniatura de contexto al ampliar cada teléfono. El último paso permite ampliar la fecha usando la captura original a su resolución nativa. Ver completa vuelve a la composición original.
+Ajustes solicitados: se retiró la flecha roja inferior del tercer teléfono, se ordenó la explicación dentro de un recuadro y se pusieron en verde tanto «¡Y listo!» como el icono del check. Se mantiene la flecha superior y el recuadro discontinuo de la fecha.
 
-Descarga y descomprime el ZIP; abre Slide-03-Intune.html. El GIF permite revisar el recorrido automáticamente. Pendiente de revisión del usuario antes de continuar.
+La versión interactiva conserva los zooms por paso, el detalle de la fecha y el regreso a la vista completa. Descarga y descomprime el ZIP; abre Slide-03-Intune.html. El PNG muestra la lámina corregida y el GIF permite revisar el recorrido.
+
+Pendiente de revisión antes de avanzar a la siguiente lámina.
