@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Inicio de sesión",
+    "file": "videos/media1.mp4",
+    "poster": "recursos/media1-poster.jpg",
+    "sourcePage": 4,
+    "duration": 64.978,
+    "sha256": "2fafec34389961f3d04871762e9fa71d41ea7dd2780eec55c226f618d4f03f71"
+  },
+  {
+    "id": 2,
+    "title": "Huella y descarga de datos",
+    "file": "videos/media2.mp4",
+    "poster": "recursos/media2-poster.jpg",
+    "sourcePage": 5,
+    "duration": 117.921,
+    "sha256": "6e80459f9785e973c2ef556a888723a8dde40cafd0bd5515c7ebba53d831f917"
+  },
+  {
+    "id": 3,
+    "title": "Inicio y avance de metas",
+    "file": "videos/media3.mp4",
+    "poster": "recursos/media3-poster.jpg",
+    "sourcePage": 6,
+    "duration": 11.422178,
+    "sha256": "26e146fff2afac1500f27c1c1ee5362b86d84d1cbda017c40365cfc6010385fe"
+  },
+  {
+    "id": 4,
+    "title": "Programación de entrega",
+    "file": "videos/media4.mp4",
+    "poster": "recursos/media4-poster.jpg",
+    "sourcePage": 6,
+    "duration": 14.1818,
+    "sha256": "1fdc0aa7c693f59c2af5c66894e8b264444cf1f0f3853fcbd73b6ded2b1c23a2"
+  },
+  {
+    "id": 5,
+    "title": "Cartera de clientes",
+    "file": "videos/media5.mp4",
+    "poster": "recursos/media5-poster.jpg",
+    "sourcePage": 7,
+    "duration": 49.965813,
+    "sha256": "02ef2acdb9e31a5f3d3e8767fbe71aa5565b6a04b7b55ec2aaff037fe57553a3"
+  },
+  {
+    "id": 6,
+    "title": "Ficha del cliente",
+    "file": "videos/media6.mp4",
+    "poster": "recursos/media6-poster.jpg",
+    "sourcePage": 10,
+    "duration": 44.692792,
+    "sha256": "1401ad4f295f8eece6f9e52e93368b17b517fea137d6c1717c9918f732b9a3c4"
+  },
+  {
+    "id": 7,
+    "title": "Coberturas combinadas",
+    "file": "videos/media7.mp4",
+    "poster": "recursos/media7-poster.jpg",
+    "sourcePage": 12,
+    "duration": 34.6687,
+    "sha256": "663b0529909f74be2b4e06062c454e509d36a6d44c43505b494b2cd8985b9f71"
+  },
+  {
+    "id": 8,
+    "title": "Foto de éxito",
+    "file": "videos/media8.mp4",
+    "poster": "recursos/media8-poster.jpg",
+    "sourcePage": 12,
+    "duration": 26.361756,
+    "sha256": "5d57bbf4c9813edecbbdb63dd73ea81b6c5086a82771c632e1ae3aefdbc1768a"
+  },
+  {
+    "id": 9,
+    "title": "Vías de pago y saldos",
+    "file": "videos/media9.mp4",
+    "poster": "recursos/media9-poster.jpg",
+    "sourcePage": 19,
+    "duration": 29.640292,
+    "sha256": "6a1f58d911904b5d1fc8dc213c6b167e4a06b13e09ab2fe77dcf5edcbc0495d7"
+  },
+  {
+    "id": 10,
+    "title": "Equipos de frío y retiro",
+    "file": "videos/media10.mp4",
+    "poster": "recursos/media10-poster.jpg",
+    "sourcePage": 20,
+    "duration": 97.45,
+    "sha256": "8a6b8edad46452b60ee3e96f2487736441428e51f463f8d4f30a9570efbc154f"
+  },
+  {
+    "id": 11,
+    "title": "Solicitud de instalación de equipos",
+    "file": "videos/media11.mp4",
+    "poster": "recursos/media11-poster.jpg",
+    "sourcePage": 25,
+    "duration": 105.289,
+    "sha256": "2d95e809a3bccc4f5a15f468e240968dc34483f3170aae4ca3a79745696542ba"
+  },
+  {
+    "id": 12,
+    "title": "Censo de equipos de frío",
+    "file": "videos/media12.mp4",
+    "poster": "recursos/media12-poster.jpg",
+    "sourcePage": 26,
+    "duration": 139.264,
+    "sha256": "134a6e6ed024c8329a8ee70a4eabf44daf7f60ca70194f2ea583ce5e8faa0716"
+  },
+  {
+    "id": 13,
+    "title": "Cancelar y repetir pedidos",
+    "file": "videos/media13.mp4",
+    "poster": "recursos/media13-poster.jpg",
+    "sourcePage": 28,
+    "duration": 95.341,
+    "sha256": "4e833cda355ac19eabd2f8aed746c26a8872b6807af4f9c5a0d2f8e5d2a96d84"
+  },
+  {
+    "id": 14,
+    "title": "Requerimientos",
+    "file": "videos/media14.mp4",
+    "poster": "recursos/media14-poster.jpg",
+    "sourcePage": 29,
+    "duration": 81.502,
+    "sha256": "142715d19a2729c97ca216ebad90a8cbcf098a7cd20e11d1ecb31dc73ac7a9fc"
+  },
+  {
+    "id": 15,
+    "title": "Realizar un pedido",
+    "file": "videos/media15.mp4",
+    "poster": "recursos/media15-poster.jpg",
+    "sourcePage": 31,
+    "duration": 110.689002,
+    "sha256": "d597dc461f4ad096db4480b6214f542bf5d1759ef95edd65d17d0372d929a1f1"
+  },
+  {
+    "id": 16,
+    "title": "Funciones sin conexión",
+    "file": "videos/media16.mp4",
+    "poster": "recursos/media16-poster.jpg",
+    "sourcePage": 34,
+    "duration": 60.16,
+    "sha256": "ac95ddf31a35ef5952bc6ca378abafc359e2c7e3d6da9bdeeca3adebba2fcd38"
+  }
+]
