@@ -1,24 +1,14 @@
-# Mi Market · Capacitación para gerencia de ventas
+# Mi Market · Aprende haciendo
 
-Presentación comercial web con imágenes originales, herramientas mostradas una a una, Intune con foco y zoom, y **16 videos originales reproducibles**. Contiene 41 temas navegables, incorporando negociación, instalación de equipos de frío y pedidos offline del PowerPoint completo.
+**Esta es la versión visual actual para capacitar a la fuerza de venta.**
 
-## Descargar y abrir
+[Descargar la presentación visual · 10 MB](https://raw.githubusercontent.com/josehernandeziturra88-ship-it/MMKT/main/Mi-Market-visual.zip). Descomprime y abre **Mi-Market-aprende.html** en Chrome, Edge o Firefox. No necesita conexión ni instalaciones.
 
-[Descargar la presentación con todos los videos](https://github.com/josehernandeziturra88-ship-it/MMKT/archive/refs/heads/presentacion-web.zip).
+Cada paso muestra el teléfono, una zona ampliada y una acción corta. Usa **Continuar** o las flechas para avanzar. **Temas** permite elegir un proceso; **Guía de apoyo** conserva las reglas y referencias fuera de las pantallas principales.
 
-1. Descarga y descomprime el ZIP completo.
-2. Abre `index.html` con Chrome, Edge o Firefox.
-3. Conserva la carpeta `videos` junto a `index.html`.
-4. Usa **Proyectar** y las flechas para avanzar. Las herramientas y las explicaciones se muestran de forma progresiva.
+![Ejemplo: agregar productos](aprende/muestra-pedido.png)
+![Ejemplo: comprobar Intune](aprende/muestra-intune.png)
 
-Los botones **Reproducir demostración** abren los videos del tema. **Videos · 16** permite elegir cualquier demostración. Hay controles de pausa, reinicio, velocidad y pantalla completa. No hace falta PowerPoint ni conexión después de descargar.
+Se seleccionaron 67 fotogramas de las 16 grabaciones originales, además de las capturas del PowerPoint. Se recortó el área del teléfono sin recrear su interfaz. Las herramientas aparecen una a una; los procesos se explican mediante secuencias de imágenes en lugar de reproducir videos. Incluye prácticas con respuesta.
 
-## Contenido y validación
-
-Fuente: PowerPoint original «Mi Market - General videos», 43 diapositivas. Los 16 MP4 se extrajeron sin recodificar y conservan su audio y calidad; sus hashes SHA-256 coinciden con los medios incrustados. El manifiesto registra duración y diapositiva de origen.
-
-Se revisaron carga y duración de los 16 videos en Chromium, reproducción efectiva, pausa, velocidad, biblioteca, imágenes en los 41 temas, zoom de Intune y navegación móvil. Los ejercicios son educativos y no modifican Mi Market.
-
-La sección de pedidos sin conexión se actualizó: admite clientes del día, requiere cerrar el pedido y conservar la caché; la bitácora permite revisar la transmisión al recuperar conexión. Las condiciones de la herramienta deben validarse con el responsable comercial antes de capacitar. La diapositiva 42 del original contiene apuntes de edición y no se presenta como una función adicional confirmada.
-
-![Demostración en video](capacitacion/vista-video.png)
+Las versiones previas con videos y PowerPoint permanecen como antecedentes; para esta capacitación utiliza **Mi-Market-visual.zip**.

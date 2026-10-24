@@ -1,0 +1,492 @@
+[
+  {
+    "flow": "Inicia sesión",
+    "action": "Pulsa «Iniciar sesión»",
+    "video": 1,
+    "time": 11.05,
+    "frame": "v01-2"
+  },
+  {
+    "flow": "Inicia sesión",
+    "action": "Ingresa tus credenciales",
+    "video": 1,
+    "time": 18.84,
+    "frame": "v01-3"
+  },
+  {
+    "flow": "Inicia sesión",
+    "action": "Verifica tu inicio",
+    "video": 1,
+    "time": 42.24,
+    "frame": "v01-6"
+  },
+  {
+    "flow": "Huella y carga del día",
+    "action": "Configura tu huella",
+    "video": 2,
+    "time": 34.2,
+    "frame": "v02-3"
+  },
+  {
+    "flow": "Huella y carga del día",
+    "action": "Revisa tu ruta",
+    "video": 2,
+    "time": 76.65,
+    "frame": "v02-6"
+  },
+  {
+    "flow": "Huella y carga del día",
+    "action": "Carga los datos",
+    "video": 2,
+    "time": 90.8,
+    "frame": "v02-7"
+  },
+  {
+    "flow": "Huella y carga del día",
+    "action": "Completa la carga",
+    "video": 2,
+    "time": 106.13,
+    "frame": "v02-8"
+  },
+  {
+    "flow": "Revisa tus metas",
+    "action": "Mira el avance",
+    "video": 4,
+    "time": 2.41,
+    "frame": "v04-2"
+  },
+  {
+    "flow": "Revisa tus metas",
+    "action": "Abre el detalle",
+    "video": 4,
+    "time": 4.11,
+    "frame": "v04-3"
+  },
+  {
+    "flow": "Consulta las entregas",
+    "action": "Abre las entregas",
+    "video": 3,
+    "time": 0.57,
+    "frame": "v03-1"
+  },
+  {
+    "flow": "Consulta las entregas",
+    "action": "Busca un pedido",
+    "video": 3,
+    "time": 8.8,
+    "frame": "v03-7"
+  },
+  {
+    "flow": "Filtra tu cartera",
+    "action": "Abre tu cartera",
+    "video": 5,
+    "time": 2.5,
+    "frame": "v05-1"
+  },
+  {
+    "flow": "Filtra tu cartera",
+    "action": "Revisa «Sin compra»",
+    "video": 5,
+    "time": 8.49,
+    "frame": "v05-2"
+  },
+  {
+    "flow": "Filtra tu cartera",
+    "action": "Consulta «Con compra»",
+    "video": 5,
+    "time": 14.49,
+    "frame": "v05-3"
+  },
+  {
+    "flow": "Filtra tu cartera",
+    "action": "Prioriza pendientes",
+    "video": 5,
+    "time": 44.97,
+    "frame": "v05-8"
+  },
+  {
+    "flow": "Conoce al cliente",
+    "action": "Abre la ficha",
+    "video": 6,
+    "time": 12.96,
+    "frame": "v06-3"
+  },
+  {
+    "flow": "Conoce al cliente",
+    "action": "Consulta sus datos",
+    "video": 6,
+    "time": 18.32,
+    "frame": "v06-4"
+  },
+  {
+    "flow": "Conoce al cliente",
+    "action": "Revisa sus señales",
+    "video": 6,
+    "time": 40.22,
+    "frame": "v06-8"
+  },
+  {
+    "flow": "Foto de éxito",
+    "action": "Abre «Foto de éxito»",
+    "video": 7,
+    "time": 10.05,
+    "frame": "v07-3"
+  },
+  {
+    "flow": "Foto de éxito",
+    "action": "Identifica faltantes",
+    "video": 7,
+    "time": 18.37,
+    "frame": "v07-5"
+  },
+  {
+    "flow": "Foto de éxito",
+    "action": "Agrega al carrito",
+    "video": 7,
+    "time": 22.53,
+    "frame": "v07-6"
+  },
+  {
+    "flow": "Coberturas combinadas",
+    "action": "Abre «Combinadas»",
+    "video": 8,
+    "time": 13.97,
+    "frame": "v08-5"
+  },
+  {
+    "flow": "Coberturas combinadas",
+    "action": "Elige el producto",
+    "video": 8,
+    "time": 17.14,
+    "frame": "v08-6"
+  },
+  {
+    "flow": "Coberturas combinadas",
+    "action": "Consulta promociones",
+    "video": 8,
+    "time": 23.73,
+    "frame": "v08-8"
+  },
+  {
+    "flow": "Vías de pago",
+    "action": "Abre la condición de pago",
+    "video": 9,
+    "time": 15.71,
+    "frame": "v09-5"
+  },
+  {
+    "flow": "Vías de pago",
+    "action": "Consulta el disponible",
+    "video": 9,
+    "time": 19.27,
+    "frame": "v09-6"
+  },
+  {
+    "flow": "Vías de pago",
+    "action": "Revisa por categoría",
+    "video": 9,
+    "time": 22.82,
+    "frame": "v09-7"
+  },
+  {
+    "flow": "Construye el pedido",
+    "action": "Entra a «Realizar pedido»",
+    "video": 15,
+    "time": 18.82,
+    "frame": "v15-2"
+  },
+  {
+    "flow": "Construye el pedido",
+    "action": "Agrega productos",
+    "video": 15,
+    "time": 32.1,
+    "frame": "v15-3"
+  },
+  {
+    "flow": "Construye el pedido",
+    "action": "Revisa el carrito",
+    "video": 15,
+    "time": 45.38,
+    "frame": "v15-4"
+  },
+  {
+    "flow": "Construye el pedido",
+    "action": "Elige la vía de pago",
+    "video": 15,
+    "time": 58.67,
+    "frame": "v15-5"
+  },
+  {
+    "flow": "Construye el pedido",
+    "action": "Elige la entrega",
+    "video": 15,
+    "time": 71.95,
+    "frame": "v15-6"
+  },
+  {
+    "flow": "Construye el pedido",
+    "action": "Confirma el pedido",
+    "video": 15,
+    "time": 85.23,
+    "frame": "v15-7"
+  },
+  {
+    "flow": "Construye el pedido",
+    "action": "Comprueba el número",
+    "video": 15,
+    "time": 99.62,
+    "frame": "v15-8"
+  },
+  {
+    "flow": "¿El pedido ya es digital?",
+    "action": "Tiene número de pedido…",
+    "video": 15,
+    "time": 99.62,
+    "frame": "v15-8"
+  },
+  {
+    "flow": "Registra una visita sin venta",
+    "action": "Abre el cliente",
+    "video": 5,
+    "time": 26.48,
+    "frame": "v05-5"
+  },
+  {
+    "flow": "Registra una visita sin venta",
+    "action": "Selecciona el motivo",
+    "video": 5,
+    "time": 32.48,
+    "frame": "v05-6"
+  },
+  {
+    "flow": "Registra una visita sin venta",
+    "action": "Verifica el registro",
+    "video": 5,
+    "time": 38.47,
+    "frame": "v05-7"
+  },
+  {
+    "flow": "Consulta tus pedidos",
+    "action": "Abre «Pedidos realizados»",
+    "video": 13,
+    "time": 27.65,
+    "frame": "v13-3"
+  },
+  {
+    "flow": "Consulta tus pedidos",
+    "action": "Entra al detalle",
+    "video": 13,
+    "time": 39.09,
+    "frame": "v13-4"
+  },
+  {
+    "flow": "Consulta tus pedidos",
+    "action": "Consulta el estado",
+    "video": 13,
+    "time": 50.53,
+    "frame": "v13-5"
+  },
+  {
+    "flow": "Cancela o repite",
+    "action": "Revisa las opciones",
+    "video": 13,
+    "time": 50.53,
+    "frame": "v13-5"
+  },
+  {
+    "flow": "Cancela o repite",
+    "action": "Confirma la cancelación",
+    "video": 13,
+    "time": 61.97,
+    "frame": "v13-6"
+  },
+  {
+    "flow": "Cancela o repite",
+    "action": "También puedes repetir",
+    "video": 13,
+    "time": 73.41,
+    "frame": "v13-7"
+  },
+  {
+    "flow": "Cancela o repite",
+    "action": "Revisa el nuevo carrito",
+    "video": 13,
+    "time": 85.81,
+    "frame": "v13-8"
+  },
+  {
+    "flow": "Crea un requerimiento",
+    "action": "Pulsa «Crear requerimiento»",
+    "video": 14,
+    "time": 23.64,
+    "frame": "v14-3"
+  },
+  {
+    "flow": "Crea un requerimiento",
+    "action": "Selecciona el tipo",
+    "video": 14,
+    "time": 33.42,
+    "frame": "v14-4"
+  },
+  {
+    "flow": "Crea un requerimiento",
+    "action": "Describe el caso",
+    "video": 14,
+    "time": 43.2,
+    "frame": "v14-5"
+  },
+  {
+    "flow": "Crea un requerimiento",
+    "action": "Revisa y envía",
+    "video": 14,
+    "time": 62.76,
+    "frame": "v14-7"
+  },
+  {
+    "flow": "Crea un requerimiento",
+    "action": "Verifica la confirmación",
+    "video": 14,
+    "time": 73.35,
+    "frame": "v14-8"
+  },
+  {
+    "flow": "Solicita una instalación",
+    "action": "Entra a «Equipo de frío»",
+    "video": 11,
+    "time": 17.9,
+    "frame": "v11-2"
+  },
+  {
+    "flow": "Solicita una instalación",
+    "action": "Elige el motivo",
+    "video": 11,
+    "time": 30.53,
+    "frame": "v11-3"
+  },
+  {
+    "flow": "Solicita una instalación",
+    "action": "Selecciona el equipo",
+    "video": 11,
+    "time": 43.17,
+    "frame": "v11-4"
+  },
+  {
+    "flow": "Solicita una instalación",
+    "action": "Completa el contacto",
+    "video": 11,
+    "time": 68.44,
+    "frame": "v11-6"
+  },
+  {
+    "flow": "Solicita una instalación",
+    "action": "Guarda el número",
+    "video": 11,
+    "time": 81.07,
+    "frame": "v11-7"
+  },
+  {
+    "flow": "Solicita una instalación",
+    "action": "Consulta tus solicitudes",
+    "video": 11,
+    "time": 94.76,
+    "frame": "v11-8"
+  },
+  {
+    "flow": "Gestiona un retiro",
+    "action": "Selecciona el equipo",
+    "video": 10,
+    "time": 28.26,
+    "frame": "v10-3"
+  },
+  {
+    "flow": "Gestiona un retiro",
+    "action": "Completa la solicitud",
+    "video": 10,
+    "time": 39.95,
+    "frame": "v10-4"
+  },
+  {
+    "flow": "Gestiona un retiro",
+    "action": "Elige el motivo",
+    "video": 10,
+    "time": 63.34,
+    "frame": "v10-6"
+  },
+  {
+    "flow": "Gestiona un retiro",
+    "action": "Revisa y envía",
+    "video": 10,
+    "time": 75.04,
+    "frame": "v10-7"
+  },
+  {
+    "flow": "Gestiona un retiro",
+    "action": "Verifica el ingreso",
+    "video": 10,
+    "time": 87.7,
+    "frame": "v10-8"
+  },
+  {
+    "flow": "Censa los equipos",
+    "action": "Abre el censo",
+    "video": 12,
+    "time": 23.67,
+    "frame": "v12-2"
+  },
+  {
+    "flow": "Censa los equipos",
+    "action": "Ingresa o escanea el código",
+    "video": 12,
+    "time": 40.39,
+    "frame": "v12-3"
+  },
+  {
+    "flow": "Censa los equipos",
+    "action": "Finaliza el censo",
+    "video": 12,
+    "time": 57.1,
+    "frame": "v12-4"
+  },
+  {
+    "flow": "Si no puedes censar",
+    "action": "Selecciona el motivo",
+    "video": 12,
+    "time": 107.23,
+    "frame": "v12-7"
+  },
+  {
+    "flow": "Si no puedes censar",
+    "action": "Envía la justificación",
+    "video": 12,
+    "time": 125.34,
+    "frame": "v12-8"
+  },
+  {
+    "flow": "Reconoce el modo offline",
+    "action": "Identifica el aviso",
+    "video": 16,
+    "time": 10.23,
+    "frame": "v16-2"
+  },
+  {
+    "flow": "Reconoce el modo offline",
+    "action": "Consulta los datos",
+    "video": 16,
+    "time": 24.67,
+    "frame": "v16-4"
+  },
+  {
+    "flow": "Reconoce el modo offline",
+    "action": "Registra la gestión",
+    "video": 16,
+    "time": 39.1,
+    "frame": "v16-6"
+  },
+  {
+    "flow": "Sin venta, ¿qué haces?",
+    "action": "El cliente no compra",
+    "video": 5,
+    "time": 26.48,
+    "frame": "v05-5"
+  }
+]
