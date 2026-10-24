@@ -1,17 +1,25 @@
-# Mi Market · Presentación comercial interactiva
+# Mi Market · Capacitación para gerencia de ventas
 
-Versión visual en negro, rojo y blanco, con capturas originales integradas.
+Presentación web con imágenes originales, identidad negra, roja y blanca y explicación progresiva.
 
-## Abrir la presentación
+[Descargar la versión para gerencia](https://raw.githubusercontent.com/josehernandeziturra88-ship-it/MMKT/main/MMKT-Gerencia-interactiva.zip). Descomprime y abre **Mi-Market-Gerencia.html** en Chrome, Edge o Firefox. No necesitas instalar programas ni mover imágenes: están incorporadas en el archivo.
 
-[Descargar presentación web](https://raw.githubusercontent.com/josehernandeziturra88-ship-it/MMKT/main/Mi-Market-interactiva.zip). Descomprime y abre `Mi-Market-presentacion.html` con Chrome, Edge o Firefox. Todas las imágenes están incorporadas; no requiere instalar programas ni conexión a internet después de descargar.
+## Recorrido visual
 
-Selecciona los pasos para explorar las explicaciones, cambia de pantalla con los controles, amplía las imágenes y responde los casos prácticos. Usa Pantalla completa para proyectar. Los ejercicios no se conectan a la aplicación real.
+- Las 11 herramientas se muestran individualmente, con su función y una lectura para la gestión comercial. El mapa completo está disponible al solicitarlo.
+- Intune: 3 pasos, contexto de los tres teléfonos, pantalla completa y zona de detalle ampliada. Selecciona los pasos o pulsa la zona marcada.
+- El resto de los temas avanza una idea por clic, conservando las capturas originales.
+- Incluye preguntas con respuestas, lista de preparación, notas y modo de proyección. Flechas o espacio para avanzar.
 
-![Vista del recorrido](comercial-recorrido.png)
+![Herramientas una a una](gerencia-herramientas.png)
+![Intune paso a paso](gerencia-intune.png)
 
-## Ver como sitio web
+## Estado del contenido
 
-El archivo index.html está preparado para GitHub Pages. En Settings → Pages, selecciona Deploy from a branch → main → / (root) y guarda. La URL estará disponible cuando GitHub complete la publicación: https://josehernandeziturra88-ship-it.github.io/MMKT/ . La subida de archivos no implica que Pages esté activado.
+Esta entrega no incluye videos: no se encontraron videos incrustados ni vínculos a videos en el PowerPoint disponible. La incorporación de videos requiere el archivo original o los medios correspondientes. Los ejercicios no ejecutan acciones en Mi Market.
 
-Esta versión web reemplaza como entrega principal a la propuesta inicial de PowerPoint. El PDF visual es estático. Validar con el responsable las políticas y condiciones comerciales del material fuente antes de capacitar.
+Verificar con el responsable la política de contraseñas, mínimo de compra y significado operativo de «cuotificado» antes de capacitar.
+
+## Publicación web opcional
+
+index.html está listo para GitHub Pages. Si Pages todavía no está activo, en Settings → Pages selecciona Deploy from a branch → main → / (root). La subida del archivo por sí sola no confirma que el sitio esté publicado.
